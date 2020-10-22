@@ -2,16 +2,16 @@
 uid: UninstallEdgeCmdUtility1-1
 ---
 
-# Uninstall EdgeCmd utility
+# (DE) Uninstall EdgeCmd utility
 
 Complete the procedure corresponding to your specific operating system to uninstall EdgeCmd utility:
 
-## Windows
+## (DE) Windows
 
 1. From the Windows Control Pane, open **Add or remove programs**.
 2. In the Apps & Features list, click **OSIsoft EdgeCmd Utility** > **Uninstall** > **Uninstall**.
 
-## Linux
+## (DE) Linux
 
 1. Open a terminal window.
 2. Run the following command:

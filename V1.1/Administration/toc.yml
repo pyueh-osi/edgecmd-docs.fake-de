@@ -1,6 +1,6 @@
-- name: Delete configuration
+- name: (DE) Delete configuration
   href: delete-configuration.md
-- name: Start or stop a component
+- name: (DE) Start or stop a component
   href: start-or-stop-a-component.md
-- name: Reset application
+- name: (DE) Reset application
   href: reset-application.md
